@@ -1,0 +1,1 @@
+I used a long type to safely store the total. The program reads the size of the array, then the numbers, adds them up in a loop (or with Sum() cast to long), and finally prints the result.
