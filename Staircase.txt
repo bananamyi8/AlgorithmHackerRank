@@ -1,0 +1,1 @@
+The staircase problem prints a right-aligned staircase of height n. For each row i (from 1 to n), it prints (n - i) spaces followed by i # symbols. This loop continues until all rows are printed, forming the staircase shape.
