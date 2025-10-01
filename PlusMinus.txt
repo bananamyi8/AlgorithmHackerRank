@@ -1,0 +1,1 @@
+The program counts how many elements in the array are positive, negative, and zero. It then divides each count by the total number of elements to get the ratios and prints them with six decimal places.
