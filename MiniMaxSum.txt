@@ -1,0 +1,1 @@
+The code first reads five integers from input and stores them in an array. It then calculates the total sum of all elements using a loop . To get the minimum sum, it subtracts the largest number from the total, and for the maximum sum, it subtracts the smallest number from the total. Finally, it prints the two results.
