@@ -1,0 +1,1 @@
+This code calculates the absolute difference between the sums of the two diagonals of a square matrix. It loops once through the matrix to add up the primary diagonal (arr[i][i]) and the secondary diagonal (arr[i][n-i-1]), then returns the absolute difference using Math.Abs().
