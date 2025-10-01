@@ -1,0 +1,3 @@
+SimpleArraySum
+
+The program an integer n for the array size, then reading n space-separated integers into an array. The simpleArraySum function uses ar.Sum() to add all elements of the array, and the result is printed to the console.

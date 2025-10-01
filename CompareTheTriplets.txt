@@ -1,0 +1,3 @@
+CompareTheTriplets
+
+The code works by looping through Alice’s and Bob’s three scores, comparing each pair. If Alice’s score is greater, her counter increases; if Bob’s is greater, his counter increases; if they are equal, no one scores. After checking all three, the program outputs both totals as Alice’s score followed by Bob’s score.
