@@ -1,3 +1,0 @@
-SolveMeFirst
-
-The function solveMeFirst(int a, int b) that just performs a + b, then in the Main method you read two numbers from the console using Console.ReadLine(), convert them to integers, call the function, and finally print the result with Console.WriteLine().
